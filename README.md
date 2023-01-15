@@ -1,4 +1,9 @@
 # modern-terminal-clock
 simple modern terminal clock using python and curses module
 
-to start the clock type:  python3 main.py
+run:
+
+1- cd modern-terminal-clock
+2- python3 main.py
+
+that's it.
