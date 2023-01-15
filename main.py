@@ -3,7 +3,7 @@ from curses.textpad import rectangle
 from datetime import datetime, date
 import os, vlc
 
-copyright_ = "made by: AHMED"
+copyright_ = "made by: NAVIAROK"
 help_to_quit = "type 'q' to exit"
 clock_dimensions = (82, 8)
 separator = ["$$\ ","\__|","    ","$$\ ","\__|"]
